@@ -1,1 +1,19 @@
-//
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+// @import '~bootstrap/scss/bootstrap';
+@import '~buefy/dist/buefy.css';
+
+@import '~sweetalert2/src/sweetalert2';
+@import 'elements/transitions';
+/*@import '~bootstrap/scss/bootstrap';
+@import 'elements/card';
+@import 'elements/navbar';
+@import 'elements/buttons';
+
+*/
+@import '~buefy/dist/buefy.css';
